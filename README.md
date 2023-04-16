@@ -1,5 +1,5 @@
 # unogaame
-##게임 규칙
+## 게임 규칙
 
 ![game1](https://user-images.githubusercontent.com/85432029/232320473-af3d0c3e-372f-41cd-b4a8-b12891b7d567.gif)
 ![game2](https://user-images.githubusercontent.com/85432029/232320475-4547d5fc-8a0e-481b-a19c-27e9fa9d2d39.gif)
